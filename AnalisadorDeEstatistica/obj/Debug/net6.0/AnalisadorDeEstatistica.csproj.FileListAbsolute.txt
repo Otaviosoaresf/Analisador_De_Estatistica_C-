@@ -1,0 +1,15 @@
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\Projetos_Pessoais\Analizador_de_Estatística\AnalisadorDeEstatistica\AnalisadorDeEstatistica\bin\Debug\net6.0\AnalisadorDeEstatistica.exe
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\Projetos_Pessoais\Analizador_de_Estatística\AnalisadorDeEstatistica\AnalisadorDeEstatistica\bin\Debug\net6.0\AnalisadorDeEstatistica.deps.json
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\Projetos_Pessoais\Analizador_de_Estatística\AnalisadorDeEstatistica\AnalisadorDeEstatistica\bin\Debug\net6.0\AnalisadorDeEstatistica.runtimeconfig.json
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\Projetos_Pessoais\Analizador_de_Estatística\AnalisadorDeEstatistica\AnalisadorDeEstatistica\bin\Debug\net6.0\AnalisadorDeEstatistica.dll
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\Projetos_Pessoais\Analizador_de_Estatística\AnalisadorDeEstatistica\AnalisadorDeEstatistica\bin\Debug\net6.0\AnalisadorDeEstatistica.pdb
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\Projetos_Pessoais\Analizador_de_Estatística\AnalisadorDeEstatistica\AnalisadorDeEstatistica\obj\Debug\net6.0\AnalisadorDeEstatistica.csproj.AssemblyReference.cache
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\Projetos_Pessoais\Analizador_de_Estatística\AnalisadorDeEstatistica\AnalisadorDeEstatistica\obj\Debug\net6.0\AnalisadorDeEstatistica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\Projetos_Pessoais\Analizador_de_Estatística\AnalisadorDeEstatistica\AnalisadorDeEstatistica\obj\Debug\net6.0\AnalisadorDeEstatistica.AssemblyInfoInputs.cache
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\Projetos_Pessoais\Analizador_de_Estatística\AnalisadorDeEstatistica\AnalisadorDeEstatistica\obj\Debug\net6.0\AnalisadorDeEstatistica.AssemblyInfo.cs
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\Projetos_Pessoais\Analizador_de_Estatística\AnalisadorDeEstatistica\AnalisadorDeEstatistica\obj\Debug\net6.0\AnalisadorDeEstatistica.csproj.CoreCompileInputs.cache
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\Projetos_Pessoais\Analizador_de_Estatística\AnalisadorDeEstatistica\AnalisadorDeEstatistica\obj\Debug\net6.0\AnalisadorDeEstatistica.dll
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\Projetos_Pessoais\Analizador_de_Estatística\AnalisadorDeEstatistica\AnalisadorDeEstatistica\obj\Debug\net6.0\refint\AnalisadorDeEstatistica.dll
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\Projetos_Pessoais\Analizador_de_Estatística\AnalisadorDeEstatistica\AnalisadorDeEstatistica\obj\Debug\net6.0\AnalisadorDeEstatistica.pdb
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\Projetos_Pessoais\Analizador_de_Estatística\AnalisadorDeEstatistica\AnalisadorDeEstatistica\obj\Debug\net6.0\AnalisadorDeEstatistica.genruntimeconfig.cache
+C:\Users\FRANCISCO FELÍCIO\Desktop\Projetos\C#\Projetos_Pessoais\Analizador_de_Estatística\AnalisadorDeEstatistica\AnalisadorDeEstatistica\obj\Debug\net6.0\ref\AnalisadorDeEstatistica.dll
